@@ -3,38 +3,31 @@ Privacy Policy
 
 Effective Date: February 3, 2025
 
-A Word Game ("the Game") is developed by SG33 Games ("we," "us," or "our"). This Privacy Policy explains how we handle
-user data when you use our Game.
+A Word Game is developed Andy McEvoy. This Privacy Policy explains how I handle user data when you use my game.
 
-Information We Collect
-----------------------
+Personal Information I Collect
+------------------------------
 
-We do not collect any personal data from users. However, if you choose to sign in with Google Play Services, your high
-scores may be submitted to Google Play Services leaderboards.
+None! The game does not ask for, manage, or store any personal data.
 
-How We Use Information
-----------------------
-
-The only data shared externally is high scores, which are sent to Google Play Services if the user chooses to sign in.
-We do not store or process this data ourselves.
-
-Third-Party Services
+Information I Do Use
 --------------------
 
-Our Game integrates with Google Play Services. The handling of high scores and any associated data is subject to
-Google's Privacy Policy. Please review Google's policies for more details..
+The only data shared externally is high scores, which are sent to
+[Unity Gaming Services](https://unity.com/solutions/gaming-services) using their anonymous sign in.
+The information sent is:
 
-Your Choices
-------------
+* Your high score
+* Number of words found
+* The best word you had during the game and its score
+* The longest word you had during the game and its score
+* Date achieved
 
-* You can play the Game without signing in to Google Play Services. In this case, no data will be sent.
-* You can manage your Google Play Services settings via your Google account.
+The total data sent to Unity Game Services will look like the following:
 
-Security
---------
+`z6FnVIe0kXHvkxzvRGiJZ2uyxI0a: "417,28,TUSHY,33,TUSHY,33,02/18/2025"`
 
-We do not store or manage any personal data ourselves, and we rely on Google Play Services' security measures for
-leaderboard submissions.
+Scores are sent to Unity Game Services during any game played while connected to the internet.
 
 Changes to This Privacy Policy
 ------------------------------
